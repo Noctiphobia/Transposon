@@ -1,0 +1,7 @@
+http://www.fruitfly.org/data/p_disrupt/datasets/ASHBURNER/D_mel_transposon_sequence_set.fasta
+http://botserv2.uzh.ch/kelldata/trep-db/downloadFiles.html
+http://maizetedb.org/~maize/
+http://genedenovoweb.ticp.net:81/DPTEdb/index.php
+https://www.soybase.org/soytedb/#bulk
+http://sines.eimb.ru/
+ftp://ftpmips.helmholtz-muenchen.de/plants/REdat/
