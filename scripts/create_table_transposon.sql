@@ -1,6 +1,8 @@
+CREATE SCHEMA bio;
+
 CREATE TABLE bio.transposon(
   id serial PRIMARY KEY,
-  name VARCHAR(50) NOT NULL,
+  name VARCHAR(100) NOT NULL,
   comment VARCHAR(255),
   sequence text NOT NULL,
   source_file VARCHAR(50)

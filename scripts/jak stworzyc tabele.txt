@@ -1,0 +1,5 @@
+psql --username=postgres --dbname=postgres --file=create_table_transposon.sql --password
+Z jakiegoœ powodu nie dzia³a skrypt o takiej treœci (nie pyta o has³o), wiêc trzeba to wkleiæ w command line.
+
+Wymagana instalacja postgresa.
+
