@@ -2,9 +2,9 @@
 
 import pg
 import re
-db = pg.DB(dbname="postgres", host="localhost", port=5432, user="postgres", passwd="mlekomleko2")
+db = pg.DB(dbname="postgres", host="localhost", port=5432, user="postgres", passwd="twoje_haslo")
 from pgdb import connect
-con = connect(database='postgres', host='localhost:5432', user='postgres', password='mlekomleko2')
+con = connect(database='postgres', host='localhost:5432', user='postgres', password='twoje_haslo')
 
 cursor = con.cursor()
 
