@@ -1,0 +1,5 @@
+skrypt sql zawiera DML tworz¹cy prost¹ tabelkê, odpala siê go podobnie jak dla
+jak_stworzyc_tabele.txt.
+
+nastêpnie w celu wype³nienia tabeli puszczamy "python create_table_dna_walk.sql"
+uwaga - bêdzie to trwa³o...
